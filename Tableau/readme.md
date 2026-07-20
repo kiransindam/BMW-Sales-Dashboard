@@ -12,9 +12,7 @@ This folder contains the Tableau dashboard for the BMW Sales Analytics project.
 
 ---
 
-## 🌐 Live Dashboard
-
-👉 **[Click here to view the live BMW Sales Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/BMWSalesAnalytics_17828850435440/HOME)**
+ 
 
 ---
 

@@ -227,4 +227,3 @@ Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kiransindam)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Kiransindam)
-# BMW-Sales-Dashboard

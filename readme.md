@@ -218,22 +218,6 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 
 ---
 
-## 🎨 Design Details
-
-| Element | Detail |
-|---------|--------|
-| **Theme** | BMW Premium Dark Blue |
-| **Background Tool** | Microsoft PowerPoint |
-| **Dashboard Size** | 1668 × 861 pixels |
-| **Primary Color** | BMW Blue `#1C69D3` |
-| **Dark Background** | Navy `#0A1929` |
-| **Profit Color** | Green `#2ECC71` |
-| **Cost Color** | Red `#E74C3C` |
-| **Text** | White `#FFFFFF` |
-| **Sidebar** | Mid Blue `#0F3460` |
-
----
-
 ---
 
 ## 👤 Author

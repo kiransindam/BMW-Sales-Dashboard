@@ -79,7 +79,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 - Profit vs Units Sold — **scatter plot with trend lines**
 
 ### Page 7 — Quick Analysis
-![Quick](Screenshots/7.&20Quick%20Analysis.png)
+![Quick](Screenshots/7.%20Quick%20Analysis.png) 
 - **Metric Selector** — 5 options: Total Revenue, Total Profit, Units Sold, Avg Price, Profit Margin %
 - **Dimension Selector** — 5 options: Model, Region, Price Range, Unit Range, Profit Tier
 - Dynamic bar chart — updates instantly on any selection
